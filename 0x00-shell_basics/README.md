@@ -2,7 +2,7 @@
 
 ## Tasks
 
-* [Current working directory](0x00-shell_basics/0-current_working_directory)
+* [Current working directory](0-current_working_directory)
 * [List directory contents](0x00-shell_basics/1-listit)
 * [Change directory](0x00-shell_basics/2-bring_me_home)
 * [List directory contents in long format](0x00-shell_basics/3-listfiles)
