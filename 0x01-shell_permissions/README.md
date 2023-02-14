@@ -2,7 +2,6 @@
 
 ## Tasks
 
-
 * [0-iam_betty => script that switches the current user to the user betty](0-iam_betty)
 * [1-who_am_i => prints the effective username of the current user](1-who_am_i)
 * [2-groups => a script that prints all the groups the current user is part of](2-groups)
